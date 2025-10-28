@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any Computer Vision research project**
 
-- 👨‍💻 All of my paper are available at [https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=FibXAB4AAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=FibXAB4AAAAJ)
+- 👨‍💻 All of my paper are available at [Google Scholer](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=FibXAB4AAAAJ)
 
 - 💬 Ask me about **anything about my project and publications**
 
