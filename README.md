@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surjo0" alt="surjo0" /></a> </p>
 
-- 🔭 I’m currently working on **Structural Health Monetization**
+- 🔭 I’m currently working on **Diffusion Models**
 
-- 🌱 I’m currently learning **neural network**
+- 🌱 I’m currently learning **Expert Level Computer Vision**
 
-- 👯 I’m looking to collaborate on **any ML research project**
+- 👯 I’m looking to collaborate on **any Computer Vision research project**
 
 - 👨‍💻 All of my paper are available at [https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=FibXAB4AAAAJ](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=FibXAB4AAAAJ)
 
-- 💬 Ask me about **anything about my project**
+- 💬 Ask me about **anything about my project and publications**
 
-- 📫 How to reach me **22cs3072@rgipt.ac.in**
+- 📫 How to reach me **surjodey27028@gmail.com**
 
 - ⚡ Fun fact **What is fun 🥹**
 
