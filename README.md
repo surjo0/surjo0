@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Surjo</h1>
-<h3 align="center">A passionate AI/ML researcher</h3>
+<h3 align="center">A passionate Computer Vision researcher</h3>
 
 
 
-- 🔭 I’m currently working on **Diffusion Models**
+- 🔭 I’m currently working on **Vision Langage Models**
 
 - 🌱 I’m currently learning **Expert Level Computer Vision**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **anything about my project and publications**
 
-- 📫 How to reach me **surjodey27028@gmail.com**
+- 📫 How to reach me **surjo.dey.personal@gmail.com**
 
 - ⚡ Fun fact **What is fun 🥹**
 
