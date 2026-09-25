@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="surjo0's GitHub profile" src="dark_mode.svg" />
-</picture>
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="wordcloud.png" alt="Word Cloud" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Surjo</h1>
 <h3 align="center">A passionate AI/ML researcher</h3>
